@@ -5,5 +5,5 @@ def reverse_each_word
     return_array << string.reverse
   end
   return_array.join(" ")
-reverse_each_word "Hello there how are you?"
 end
+reverse_each_word "Hello there how are you?"
